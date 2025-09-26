@@ -14,3 +14,11 @@ To start:
 Create a MusicOrganizer object on the object bench.
 Use its methods to add, remove, and play files.
 
+Questions:
+
+17.When adding a new file make sure its in the audio files of the chapter and when calling for an unknown
+   file it will display that there was a problem with the files name
+18.The header might look somethuing like this: public vois listAllFiles()
+   The return type would be void and there would no parameters.
+19.I would notbe possible because files keep getting added and so if we were to do something like this
+   we would have to replace the numbers by the parameter "index"
